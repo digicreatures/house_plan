@@ -1,14 +1,14 @@
 [info]
 author = David Gayerie
 icon = 
-name = interior_plan
+name = house_plan
 title = Plan d'intérieur
 
 [paths]
-assets_dirs = projects/interior_plan/assets;
-blend_dirs = projects/interior_plan/blender;
+assets_dirs = projects/house_plan/assets;
+blend_dirs = projects/house_plan/blender;
 blender_exec = /opt/bin/blender-2.79-testbuild2-linux-glibc219-x86_64/blender
-build_dir = projects/interior_plan/build
+build_dir = projects/house_plan/build
 deploy_dir = 
 
 [compile]
