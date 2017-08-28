@@ -7,7 +7,7 @@ title = Plan d'intérieur
 [paths]
 assets_dirs = projects/house_plan/assets;
 blend_dirs = projects/house_plan/blender;
-blender_exec = /opt/bin/blender-2.79-testbuild2-linux-glibc219-x86_64/blender
+blender_exec = blender
 build_dir = projects/house_plan/build
 deploy_dir = 
 
@@ -18,7 +18,7 @@ engine_type = copy
 ignore = 
 js_ignore = 
 optimization = simple
-use_physics = True
+use_physics = False
 
 [deploy]
 assets_path_dest = assets
