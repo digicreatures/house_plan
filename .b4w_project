@@ -23,6 +23,6 @@ use_physics = False
 [deploy]
 assets_path_dest = assets
 assets_path_prefix = assets
-ignore = 
+ignore = .git;.gitignore;preprod
 override = 
 
