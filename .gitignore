@@ -6,7 +6,7 @@ build
 *\.min50.jpg
 *\.min50.png
 *\.m4a
-assets/.*\.bin
-assets/.*\.json
+assets/*\.bin
+assets/*\.json
 blender/assets
 blender/references
